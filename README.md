@@ -1,4 +1,4 @@
-# second-code
-# second-code
-# deogra
-# deogra
+#include<iostream>
+using namespace std;
+   int main(){
+   
