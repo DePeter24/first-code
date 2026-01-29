@@ -1,4 +1,5 @@
-<iostream.h>
+#include<iostream>
+using namespace std;
 int main(){
     //declaration of variables//
     int a,b,c,sum=0;
